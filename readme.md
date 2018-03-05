@@ -1,6 +1,12 @@
-# A new readme files in .md format
+# A new readme file in .md format
 
-### just messing around
-to learn gitHub
+### just messing around and learning GitHub
 
-I'm at [petermoeller@me.com](mailto: petermoeller@me.com)
+---
+This is my _first_ **real** project to get to know gibhub
+
+Main `source code` is a simple arduino `blink-example`.
+
+---
+
+I'm at [petermoeller@me.com](mailto:petermoeller@me.com)
