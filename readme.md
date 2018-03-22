@@ -1,3 +1,5 @@
+~draft ~"playin with tags"
+
 # A new readme file in .md format
 
 ### just messing around and learning GitHub
