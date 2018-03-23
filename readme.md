@@ -1,5 +1,6 @@
 [![license](https://img.shields.io/github/license/petermoeller/testcode.svg)](https://github.com/Petermoeller/testcode/blob/first-feature/LICENCE.txt)
 [![GitHub release](https://img.shields.io/github/release/petermoeller/testcode.svg)](https://github.com/Petermoeller/testcode/blob/master/src/main.cpp)
+[![GitHub last commit](https://img.shields.io/github/last-commit/petermoeller/testcode.svg)](https://github.com/Petermoeller/testcode)
 
 # A new readme file in .md format
 
